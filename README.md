@@ -1,9 +1,5 @@
 # Guilherme Perazzolo Amoretti
 
-# IFC programing student
-
-
-
 ---
 
 ### What tools and languages I use
