@@ -1,6 +1,6 @@
-**`Guilherme Perazzolo Amoretti`**<br>
+# Guilherme Perazzolo Amoretti
 
-**`IFC programing student`**<br>
+# IFC programing student
 
 
 
